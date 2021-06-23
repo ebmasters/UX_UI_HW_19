@@ -1,7 +1,8 @@
 
 
 body {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Karla', sans-serif;
+    /* font-family: 'Poiret One', cursive; */
     background-color: black;
 }
 
@@ -87,7 +88,16 @@ li {
 
 .myStory{
     width: 65%;
-    font-size: 24px;
+    font-size: 20px;
+    line-height: 1.8;
+    
+}
+
+.mystorysize{
+    font-size: 25px;
+}
+.paragraphtitle {
+    font-weight:bold;
 }
 
 .resumeButton{
